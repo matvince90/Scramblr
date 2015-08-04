@@ -1,0 +1,10 @@
+c:\users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\bin\Debug\Scramblr.exe.config
+c:\users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\bin\Debug\Scramblr.exe
+c:\users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\bin\Debug\Scramblr.pdb
+c:\users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\obj\Debug\Scramblr.csprojResolveAssemblyReference.cache
+c:\users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\obj\Debug\Scramblr.Properties.Resources.resources
+c:\users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\obj\Debug\Scramblr.csproj.GenerateResource.Cache
+c:\users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\obj\Debug\Scramblr.exe
+c:\users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\obj\Debug\Scramblr.pdb
+c:\users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\obj\Debug\Scramblr.Scramblr.resources
+c:\users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\obj\Debug\Scramblr.Viewer.resources
