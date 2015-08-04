@@ -1,0 +1,13 @@
+C:\Users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\bin\Release\Scramblr.exe.config
+C:\Users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\bin\Release\Scramblr.exe
+C:\Users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\bin\Release\Scramblr.pdb
+C:\Users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\obj\Release\Scramblr.Scramblr.resources
+C:\Users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\obj\Release\Scramblr.Viewer.resources
+C:\Users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\obj\Release\Scramblr.Properties.Resources.resources
+C:\Users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\obj\Release\Scramblr.csproj.GenerateResource.Cache
+C:\Users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\obj\Release\Scramblr.exe
+C:\Users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\obj\Release\Scramblr.pdb
+C:\Users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\bin\Release\Scramblr.exe.manifest
+C:\Users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\bin\Release\Scramblr.application
+C:\Users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\obj\Release\Scramblr.exe.manifest
+C:\Users\msant080\documents\visual studio 2012\Projects\Scramblr\Scramblr\obj\Release\Scramblr.application
